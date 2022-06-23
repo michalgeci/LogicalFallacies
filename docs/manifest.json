@@ -19,6 +19,7 @@
     }
   ],
   "start_url": "https://michalgeci.github.io/LogicalFallacies/",
+  "scope": "https://michalgeci.github.io/LogicalFallacies/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
