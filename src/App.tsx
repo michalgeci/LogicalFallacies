@@ -26,11 +26,11 @@ function App() {
   return (
     <div className="App">
 
-      <h1 style={{fontFamily: 'CinzelDecorative'}}>{fallacies[randomNumber].title}</h1>
+      <h1 style={{fontFamily: 'CinzelDecorative', paddingTop: 18, paddingLeft: 24, paddingRight: 24}}>{fallacies[randomNumber].title}</h1>
 
-      <p style={{fontFamily: 'Battambang'}}>{fallacies[randomNumber].description}</p>
+      <p style={{fontFamily: 'Battambang', paddingLeft: 24, paddingRight: 24}}>{fallacies[randomNumber].description}</p>
 
-      <small style={{fontFamily: 'Battambang'}}>{fallacies[randomNumber].alt}</small> <br/>
+      <small style={{fontFamily: 'Battambang', paddingLeft: 24, paddingRight: 24}}>{fallacies[randomNumber].alt}</small> <br/>
 
       <Button style={{marginTop: 48}} color='default' fill='outline' onClick={() => {
         window.open('https://www.logicallyfallacious.com' + fallacies[randomNumber].url);
