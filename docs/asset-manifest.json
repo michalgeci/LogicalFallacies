@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/LogicalFallacies/static/css/main.076d9f87.css",
-    "main.js": "/LogicalFallacies/static/js/main.eb3fe5d9.js",
+    "main.js": "/LogicalFallacies/static/js/main.a8c21ff5.js",
     "static/js/787.c3b93df6.chunk.js": "/LogicalFallacies/static/js/787.c3b93df6.chunk.js",
     "static/media/Battambang-Light.ttf": "/LogicalFallacies/static/media/Battambang-Light.9e28568c51a17f0deccf.ttf",
     "static/media/CinzelDecorative-Regular.ttf": "/LogicalFallacies/static/media/CinzelDecorative-Regular.c243877d82654b511c69.ttf",
     "service-worker.js": "/LogicalFallacies/service-worker.js",
     "index.html": "/LogicalFallacies/index.html",
     "main.076d9f87.css.map": "/LogicalFallacies/static/css/main.076d9f87.css.map",
-    "main.eb3fe5d9.js.map": "/LogicalFallacies/static/js/main.eb3fe5d9.js.map",
+    "main.a8c21ff5.js.map": "/LogicalFallacies/static/js/main.a8c21ff5.js.map",
     "787.c3b93df6.chunk.js.map": "/LogicalFallacies/static/js/787.c3b93df6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.076d9f87.css",
-    "static/js/main.eb3fe5d9.js"
+    "static/js/main.a8c21ff5.js"
   ]
 }
